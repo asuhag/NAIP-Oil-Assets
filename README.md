@@ -6,3 +6,7 @@ Repository containing
     2. Google drive link to training (labelled) and testing images. ( The files are > GitHub permitted size )
     3. Tensorflow and imageAI implementation of object detection and localization framework. 
     4. Sample examples
+
+
+Google drive link
+https://drive.google.com/drive/folders/15kgClZMKrCb-i7SRCfRz-UHUjCX0TzVn?usp=sharing
